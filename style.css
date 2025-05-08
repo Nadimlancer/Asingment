@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  width: 100%;
+  margin: 0 auto;
+}
+
+header {
+  background-color: #f9f9f9;
+}
+.navbar-search {
+  right: 10px;
+}
